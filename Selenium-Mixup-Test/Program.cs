@@ -2,18 +2,19 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Firefox;
-using Selenium_Scraping_Test.Pages;
+using SeleniumMixupTest.Pages;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Selenium_Scraping_Test
+namespace SeleniumMixupTest
 {
     class Program
     {
         private static IWebDriver _driver;
+
         static void Main(string[] args)
         {
             //SETUP DRIVER

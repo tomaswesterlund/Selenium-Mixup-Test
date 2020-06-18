@@ -6,7 +6,7 @@ using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Selenium_Scraping_Test.Pages
+namespace SeleniumMixupTest.Pages
 {
     public class MainPage
     {

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{3BD38513-FAC8-48E4-91D2-8C6BA1CF9514}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Selenium_Scraping_Test</RootNamespace>
-    <AssemblyName>Selenium-Scraping-Test</AssemblyName>
+    <RootNamespace>SeleniumMixupTest</RootNamespace>
+    <AssemblyName>SeleniumMixupTest</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
